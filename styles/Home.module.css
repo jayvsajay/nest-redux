@@ -1,5 +1,8 @@
 .container {
-  padding: 0 2rem;
+  padding: 10px ;
+  text-align: center;
+  margin:100px;
+  border: 1px solid black;
 }
 
 .main {
